@@ -1,6 +1,6 @@
 FILEPATH = 'files/todos.txt'
 
-print('Hello from functions.')
+# print('Hello from functions.')
 def get_todos(filepath=FILEPATH):
     """Reads a text file and returns the list of lines in the file."""
     with open(filepath, 'r') as file:
@@ -12,7 +12,7 @@ def write_todos(todos_arg, filepath=FILEPATH):
     with open(filepath, 'w') as file:
         file.writelines(todos_arg)
 
-print(__name__)
+# print(__name__)
 if __name__ == "__main__":
     print("Hello")
     print(get_todos())
