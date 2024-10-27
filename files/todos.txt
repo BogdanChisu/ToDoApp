@@ -10,3 +10,5 @@ Add Adrian as a new user
 buy a camera
 new order
 made a default arg
+Hi
+Master Python!
