@@ -1,14 +1,12 @@
-prepare
-fix it well
-Buy fruits
+buy plantsBuy fruits
 Play soccer
 get the car
 clean the bag
 fix the drawer
-Add an old member
-Add Adrian as a new user
+Add a senior memberAdd Adrian as a new user
 buy a camera
 new order
 made a default arg
-Hi
-Master Python!
+Hello, SirMaster Python!
+my newest todo is added
+and lastly
