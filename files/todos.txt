@@ -1,8 +1,7 @@
 buy plantsBuy fruits
 Play soccer
 get the car
-clean the bag
-fix the drawer
+clean the bagsfix the drawer
 Add a senior memberAdd Adrian as a new user
 buy a camera
 new order
@@ -10,3 +9,5 @@ made a default arg
 Hello, SirMaster Python!
 my newest todo is added
 and lastly
+make the bed
+sing

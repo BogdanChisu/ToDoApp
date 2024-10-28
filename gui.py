@@ -21,8 +21,9 @@ while True:
 
     match event:
         case "Add":
-            todos= functions.get_todos()
+            todos = functions.get_todos()
             new_todo = values['todo'] + "\n"
+            print(new_todo)
             todos.append(new_todo)
             functions.write_todos(todos)
             window['todos'].update(values=todos)
